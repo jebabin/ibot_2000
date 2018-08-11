@@ -1,7 +1,7 @@
 Description
 -------------
- This script will update IOS on given devices to defined target version, it will cleanup flash to make space if needed and verify that the copied file is not corrupted.
- Optionnaly it update boot variable, put in maintenance and reload then ensure running version match target version
+ This script will join a Telegram chat and answer based on it's database (regex lookup)
+ It's quick & dirty but works.
 
 Requirement
 -------------
@@ -15,6 +15,8 @@ How to use
 
 Release note
 -------------
+ - 20180811: Ignore old message on startup, can make webpage screenshot
+ - 20180711: Initial version
 
 Bugs
 -------------
